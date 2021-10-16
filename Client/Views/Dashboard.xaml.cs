@@ -18,9 +18,9 @@ namespace Client.Views
     /// <summary>
     /// Interaction logic for Whiteboard.xaml
     /// </summary>
-    public partial class Whiteboard : UserControl
+    public partial class Dashboard : UserControl
     {
-        public Whiteboard()
+        public Dashboard()
         {
             InitializeComponent();
         }
